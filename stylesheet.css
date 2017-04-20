@@ -21,6 +21,7 @@ body {
 	border:1px solid black;
 	text-align:left;
 	color:white;
+	overflow-y: scroll;
 }
 #textInput {
 	background-color:#CCCCCC;
@@ -29,4 +30,8 @@ body {
 	border:1px solid black;
 	border-top:none;
 	font-family: 'Droid Sans Mono', monospace;
+}
+.prompt {
+	color:#22CCFF;
+	font-weight:bold;
 }
