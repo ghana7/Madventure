@@ -1,0 +1,32 @@
+body {
+	background-color:#666666;
+}
+
+#title {
+	font-family: 'Aclonica', sans-serif;
+	font-size:8vh;
+	margin:auto;
+	text-align:center;
+}
+#game {
+	font-family: 'Droid Sans Mono', monospace;
+	margin:auto;
+	text-align:center;
+}
+#textDisplay {
+	background-color:#333333;
+	width:90vw;
+	height:75vh;
+	margin:auto;
+	border:1px solid black;
+	text-align:left;
+	color:white;
+}
+#textInput {
+	background-color:#CCCCCC;
+	width:90vw;
+	height:5vh;
+	border:1px solid black;
+	border-top:none;
+	font-family: 'Droid Sans Mono', monospace;
+}
